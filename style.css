@@ -1,0 +1,145 @@
+.container {
+    margin: 0 auto;
+    max-width: 1010px;
+    width: 70%;
+    position: relative;
+    top: 170px; 
+}
+
+.container2 {
+    margin: 0 auto;
+    max-width: 1010px;
+    width: 70%;
+    position: relative;
+    top: 130px; 
+}
+
+.containerproject {
+    margin: 0 auto;
+    max-width: 1010px;
+    width: 70%;
+    position: relative;
+    top: 60px; 
+}
+
+.h1 div {
+    position: relative;
+    width: auto;
+    color: black;
+    font-size: 28px;
+    font-family: Poppins;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+p1 {
+    position: relative;
+}
+
+.p1 div {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.smalltext div{
+    color: black;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 275;
+    word-wrap: break-word;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.homeline div{
+    position: relative; 
+    border: 0.10px black solid;
+    width: 300px;
+    word-wrap: break-word
+}
+
+.button div{
+    width: 196;
+    height: 24; 
+    position: relative; 
+    padding-left: 10px; 
+    padding-right: 10px; 
+    padding-top: 8px; 
+    padding-bottom: 8px; 
+    background: black; 
+    border-radius: 10px; 
+    justify-content: flex-start; 
+    align-items: center; 
+    float: left;
+}
+
+.project_sub_headers {
+    position: relative;
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.project_section_headers {
+    position: relative;
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: 300;
+    word-wrap: break-word
+}
+
+.lcbo-link {
+    color: blue; 
+    text-decoration: none;
+}
+
+.lcbo-link:visited {
+    color: purple; 
+}
+
+.lcbo-link:hover {
+    color: red;
+    text-decoration: underline; 
+}
+
+.lcbo-link:active {
+    color: green;
+}
+
+.logo {
+    position: absolute;
+    left: 80px;
+    top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo div {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    word-wrap: break-word;
+}
+.navbar {
+    position: absolute;
+    justify-content: flex-end;
+    display: inline-flex;
+    right: 80px;
+    top: 60px;
+    align-items: center;
+}
+.navbar div {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    word-wrap: break-word;
+    gap: 30px;
+}        
+
+
+   
